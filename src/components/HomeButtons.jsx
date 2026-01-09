@@ -4,7 +4,7 @@ const cards = [
   { title: "Project Vision", path: "/vision", desc: "What this project aims to achieve." },
   { title: "Data Description", path: "/data", desc: "Sources, definitions, and coverage." },
   { title: "Explore City", path: "/city", desc: "Interactive city-level exploration." },
-  { title: "Explore Industry", path: "/industry", desc: "Industry (NAICS) exploration." },
+  { title: "Explore Industryyyy", path: "/industry", desc: "Industry (NAICS) exploration." },
   { title: "About", path: "/about", desc: "Team and contact info." },
 ];
 
